@@ -24,3 +24,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** Toma de contacto con el entorno de los test y el entorno C++ en general.
 ### 🔹 [Ejercicio 2: Log Levels](https://github.com/CabinetSpyder/Ejercicio2-log-levels-cpp.git)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Strings](https://exercism.org/tracks/cpp/concepts/strings) and [Includes](https://exercism.org/tracks/cpp/concepts/includes).
+### 🔹 [Ejercicio 3: Lasagna](https://github.com/CabinetSpyder/Ejercicio3-Lasagna-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/cpp/concepts/basics).
