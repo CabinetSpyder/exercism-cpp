@@ -20,5 +20,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 
 ---
 ## 📌 Lista de Ejercicios
-### 🔹 [Ejercicio 1: Helloworld en C++](https://github.com/CabinetSpyder/Ejercicio1-Hello-world-cpp))
+### 🔹 [Ejercicio 1: Helloworld en C++](https://github.com/CabinetSpyder/Ejercicio1-Hello-world-cpp)
 📄 **Descripción:** Toma de contacto con el entorno de los test y el entorno C++ en general.
