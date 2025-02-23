@@ -26,3 +26,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Strings](https://exercism.org/tracks/cpp/concepts/strings) and [Includes](https://exercism.org/tracks/cpp/concepts/includes).
 ### 🔹 [Ejercicio 3: Lasagna](https://github.com/CabinetSpyder/Ejercicio3-Lasagna-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/cpp/concepts/basics).
+### 🔹 [Ejercicio 4: Freelancer Rates](https://github.com/CabinetSpyder/Ejercicio4-freelancer-rates-cpp.git)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Numbers](https://exercism.org/tracks/cpp/concepts/numbers).
