@@ -18,5 +18,7 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
  3. Para Linux, introducir `cmake -G "Unix Makefiles" ..`
  4. Ejecutar los test y compilar el código: `make`
 
- ---
- ## 📌 Lista de Ejercicios
+---
+## 📌 Lista de Ejercicios
+### 🔹 [Ejercicio 1: Helloworld en C++](https://github.com/CabinetSpyder/Ejercicios-Cpp-Exercism)
+📄 **Descripción:** Toma de contacto con el entorno de los test y el entorno C++ en general.
