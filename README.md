@@ -28,3 +28,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/cpp/concepts/basics).
 ### 🔹 [Ejercicio 4: Freelancer Rates](https://github.com/CabinetSpyder/Ejercicio4-freelancer-rates-cpp.git)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Numbers](https://exercism.org/tracks/cpp/concepts/numbers).
+### 🔹 [Ejercicio 5: Last Will]( https://github.com/CabinetSpyder/Ejercicio5-last-will-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Namespaces](https://exercism.org/tracks/cpp/concepts/namespaces).
