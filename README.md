@@ -40,3 +40,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Loops](https://exercism.org/tracks/cpp/concepts/loops).
 ### 🔹 [Ejercicio 10:  Ellen's Alien Game](https://github.com/CabinetSpyder/Ejercicio10-Ellen-s-Alien-Game-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Classes](https://exercism.org/tracks/cpp/concepts/classes).
+### 🔹 [Ejercicio 11:  # Election Day](https://github.com/CabinetSpyder/Ejercicio11-Election-Day-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [References](https://exercism.org/tracks/cpp/concepts/references).
