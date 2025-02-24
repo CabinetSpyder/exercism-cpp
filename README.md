@@ -76,3 +76,5 @@ If you don't know the person's name, you will say  _you_  instead.
 ```text
 One for you, one for me.
 ```
+### 🔹 [Ejercicio 25: Grade School](https://github.com/CabinetSpyder/Ejercicio25-Grade-School-cpp)
+📄 **Descripción:** Given students' names along with the grade that they are in, create a roster for the school.
