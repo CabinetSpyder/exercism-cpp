@@ -60,3 +60,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** Given an age in seconds, calculate how old someone would be on a planet in our Solar System. (More info inside)
 ### 🔹 [Ejercicio 20: Triangle](https://github.com/CabinetSpyder/Ejercicio20-Triangle-cpp)
 📄 **Descripción:** Determine if a triangle is equilateral, isosceles, or scalene.
+### 🔹 [Ejercicio 21: Grains](https://github.com/CabinetSpyder/Ejercicio21-Grains-cpp)
+📄 **Descripción:** Calculate the number of grains of wheat on a chessboard given that the number on each square doubles.
