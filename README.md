@@ -34,3 +34,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Booleans](https://exercism.org/tracks/cpp/concepts/booleans).
 ### 🔹 [Ejercicio 7: Vehicle Purchase](https://github.com/CabinetSpyder/Ejercicio7-vehicle-purchase-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Comparisons](https://exercism.org/tracks/cpp/concepts/comparisons) and [If Statements](https://exercism.org/tracks/cpp/concepts/if-statements).
+### 🔹 [Ejercicio 8: Making the Grade](https://github.com/CabinetSpyder/Ejercicio8-making-the-grade-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Arrays and Vectors](https://exercism.org/tracks/cpp/concepts/vector-arrays).
