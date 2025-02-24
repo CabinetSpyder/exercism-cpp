@@ -30,3 +30,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Numbers](https://exercism.org/tracks/cpp/concepts/numbers).
 ### 🔹 [Ejercicio 5: Last Will]( https://github.com/CabinetSpyder/Ejercicio5-last-will-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Namespaces](https://exercism.org/tracks/cpp/concepts/namespaces).
+### 🔹 [Ejercicio 6: Pacman Rules](https://github.com/CabinetSpyder/Ejercicio6-pacman-rules-cpp )
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Booleans](https://exercism.org/tracks/cpp/concepts/booleans).
