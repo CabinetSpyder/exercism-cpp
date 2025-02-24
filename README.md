@@ -42,3 +42,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Classes](https://exercism.org/tracks/cpp/concepts/classes).
 ### 🔹 [Ejercicio 11: Election Day](https://github.com/CabinetSpyder/Ejercicio11-Election-Day-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [References](https://exercism.org/tracks/cpp/concepts/references).
+### 🔹 [Ejercicio 12: Troll the Trolls ](https://github.com/CabinetSpyder/Ejercicio12-Troll-the-Trolls-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Switch Statements](https://exercism.org/tracks/cpp/concepts/switch) and [Enumerations](https://exercism.org/tracks/cpp/concepts/enums).
