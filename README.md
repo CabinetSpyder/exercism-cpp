@@ -56,3 +56,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** Your task is to determine whether a given year is a leap year. (Mas info en el readme del ejercicio)
 ### 🔹 [Ejercicio 18: Reverse String ](https://github.com/CabinetSpyder/Ejercicio18-Reverse-String-cpp)
 📄 **Descripción:** Reversing strings (reading them from right to left, rather than from left to right) is a surprisingly common task in programming.
+### 🔹 [Ejercicio 19: Space Age](https://github.com/CabinetSpyder/Ejercicio19-Space-Age-cpp)
+📄 **Descripción:** Given an age in seconds, calculate how old someone would be on a planet in our Solar System. (More info inside)
