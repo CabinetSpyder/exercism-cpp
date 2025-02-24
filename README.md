@@ -44,3 +44,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [References](https://exercism.org/tracks/cpp/concepts/references).
 ### 🔹 [Ejercicio 12: Troll the Trolls ](https://github.com/CabinetSpyder/Ejercicio12-Troll-the-Trolls-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Switch Statements](https://exercism.org/tracks/cpp/concepts/switch) and [Enumerations](https://exercism.org/tracks/cpp/concepts/enums).
+### 🔹 [Ejercicio 13: Doctor Data](https://github.com/CabinetSpyder/Ejercicio13-Doctor-Data-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Headers](https://exercism.org/tracks/cpp/concepts/headers).
