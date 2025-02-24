@@ -36,3 +36,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Comparisons](https://exercism.org/tracks/cpp/concepts/comparisons) and [If Statements](https://exercism.org/tracks/cpp/concepts/if-statements).
 ### 🔹 [Ejercicio 8: Making the Grade](https://github.com/CabinetSpyder/Ejercicio8-making-the-grade-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Arrays and Vectors](https://exercism.org/tracks/cpp/concepts/vector-arrays).
+### 🔹 [Ejercicio 9: Interest is interesting](https://github.com/CabinetSpyder/Ejercicio8-making-the-grade-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Loops](https://exercism.org/tracks/cpp/concepts/loops).
