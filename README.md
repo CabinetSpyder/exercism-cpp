@@ -46,3 +46,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Switch Statements](https://exercism.org/tracks/cpp/concepts/switch) and [Enumerations](https://exercism.org/tracks/cpp/concepts/enums).
 ### 🔹 [Ejercicio 13: Doctor Data](https://github.com/CabinetSpyder/Ejercicio13-Doctor-Data-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Headers](https://exercism.org/tracks/cpp/concepts/headers).
+### 🔹 [Ejercicio 14: Lasagna-master](https://github.com/CabinetSpyder/Ejercicio14-lasagna-master-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Functions](https://exercism.org/tracks/cpp/concepts/functions).
