@@ -50,3 +50,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Functions](https://exercism.org/tracks/cpp/concepts/functions).
 ### 🔹 [Ejercicio 15: Power of Troy ](https://github.com/CabinetSpyder/Ejercicio15-power-of-Troy-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Auto](https://exercism.org/tracks/cpp/concepts/auto) and [Smart Pointers](https://exercism.org/tracks/cpp/concepts/smart-pointers).
+### 🔹 [Ejercicio 16: Speedywagon Foundation ](https://github.com/CabinetSpyder/Ejercicio16-Speedywagon-Foundation-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Pointers](https://exercism.org/tracks/cpp/concepts/pointers).
