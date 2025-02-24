@@ -58,3 +58,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** Reversing strings (reading them from right to left, rather than from left to right) is a surprisingly common task in programming.
 ### 🔹 [Ejercicio 19: Space Age](https://github.com/CabinetSpyder/Ejercicio19-Space-Age-cpp)
 📄 **Descripción:** Given an age in seconds, calculate how old someone would be on a planet in our Solar System. (More info inside)
+### 🔹 [Ejercicio 20: Triangle](https://github.com/CabinetSpyder/Ejercicio20-Triangle-cpp)
+📄 **Descripción:** Determine if a triangle is equilateral, isosceles, or scalene.
