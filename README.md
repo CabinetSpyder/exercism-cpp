@@ -64,3 +64,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** Calculate the number of grains of wheat on a chessboard given that the number on each square doubles.
 ### 🔹 [Ejercicio 22: Raindrops](https://github.com/CabinetSpyder/Ejercicio22-Raindrops-cpp)
 📄 **Descripción:** Raindrops is a slightly more complex version of the FizzBuzz challenge, a classic interview question.
+### 🔹 [Ejercicio 23: Pangram](https://github.com/CabinetSpyder/Ejercicio23-Pangram-cpp)
+📄 **Descripción:** Your task is to figure out if a sentence is a pangram.
