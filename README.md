@@ -54,3 +54,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Pointers](https://exercism.org/tracks/cpp/concepts/pointers).
 ### 🔹 [Ejercicio 17: Leap ](https://github.com/CabinetSpyder/Ejercicio17-leap-cpp)
 📄 **Descripción:** Your task is to determine whether a given year is a leap year. (Mas info en el readme del ejercicio)
+### 🔹 [Ejercicio 18: Reverse String ](https://github.com/CabinetSpyder/Ejercicio18-Reverse-String-cpp)
+📄 **Descripción:** Reversing strings (reading them from right to left, rather than from left to right) is a surprisingly common task in programming.
