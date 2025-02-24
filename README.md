@@ -32,3 +32,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Namespaces](https://exercism.org/tracks/cpp/concepts/namespaces).
 ### 🔹 [Ejercicio 6: Pacman Rules](https://github.com/CabinetSpyder/Ejercicio6-pacman-rules-cpp )
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Booleans](https://exercism.org/tracks/cpp/concepts/booleans).
+### 🔹 [Ejercicio 7: Vehicle Purchase](https://github.com/CabinetSpyder/Ejercicio7-vehicle-purchase-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Comparisons](https://exercism.org/tracks/cpp/concepts/comparisons) and [If Statements](https://exercism.org/tracks/cpp/concepts/if-statements).
