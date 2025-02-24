@@ -38,3 +38,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Arrays and Vectors](https://exercism.org/tracks/cpp/concepts/vector-arrays).
 ### 🔹 [Ejercicio 9: Interest is interesting](https://github.com/CabinetSpyder/Ejercicio9-interest-is-interesting-cpp)
 📄 **Descripción:** This learning exercise helped evolve your knowledge of [Loops](https://exercism.org/tracks/cpp/concepts/loops).
+### 🔹 [Ejercicio 10:  Ellen's Alien Game](https://github.com/CabinetSpyder/Ejercicio10-Ellen-s-Alien-Game-cpp)
+📄 **Descripción:** This learning exercise helped evolve your knowledge of [Classes](https://exercism.org/tracks/cpp/concepts/classes).
