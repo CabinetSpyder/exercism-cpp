@@ -62,3 +62,5 @@ Para construir los ejercicios y probarlos contra los test proporcionados por la 
 📄 **Descripción:** Determine if a triangle is equilateral, isosceles, or scalene.
 ### 🔹 [Ejercicio 21: Grains](https://github.com/CabinetSpyder/Ejercicio21-Grains-cpp)
 📄 **Descripción:** Calculate the number of grains of wheat on a chessboard given that the number on each square doubles.
+### 🔹 [Ejercicio 22: Raindrops](https://github.com/CabinetSpyder/Ejercicio22-Raindrops-cpp)
+📄 **Descripción:** Raindrops is a slightly more complex version of the FizzBuzz challenge, a classic interview question.
