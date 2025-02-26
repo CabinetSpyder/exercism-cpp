@@ -80,5 +80,5 @@ One for you, one for me.
 📄 **Descripción:** Given students' names along with the grade that they are in, create a roster for the school.
 ### 🔹 [Ejercicio 26: Hamming](https://github.com/CabinetSpyder/Ejercico26-Hamming-cpp)
 📄 **Descripción:** Calculate the Hamming Distance between two DNA strands.
-### 🔹 [Ejercicio 27: # Nucleotide Count](git@github.com:CabinetSpyder/Ejercicio27-Nucleotide-Count-cppt.git)
+### 🔹 [Ejercicio 27: # Nucleotide Count](https://github.com/CabinetSpyder/Ejercicio27-Nucleotide-Count-cppt)
 📄 **Descripción:** Given a string representing a DNA sequence, count how many of each nucleotide is present. If the string contains characters that aren't A, C, G, or T then it is invalid and you should signal an error.
