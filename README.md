@@ -90,3 +90,5 @@ One for you, one for me.
 Take any positive integer n. If n is even, divide n by 2 to get n / 2. If n is odd, multiply n by 3 and add 1 to get 3n + 1. Repeat the process indefinitely. The conjecture states that no matter which number you start with, you will always reach 1 eventually.
 
 Given a number n, return the number of steps required to reach 1.
+### 🔹 [Ejercicio 30: # Difference of Squares ](https://github.com/CabinetSpyder/Ejercicio30-Difference-of-Squares-cpp)
+📄 **Descripción:** Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
