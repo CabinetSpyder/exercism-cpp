@@ -84,3 +84,9 @@ One for you, one for me.
 📄 **Descripción:** Given a string representing a DNA sequence, count how many of each nucleotide is present. If the string contains characters that aren't A, C, G, or T then it is invalid and you should signal an error.
 ### 🔹 [Ejercicio 28: #RNA Transcription ](https://github.com/CabinetSpyder/Ejercicio28-RNA-Transcription-cpp)
 📄 **Descripción:** Your task is determine the RNA complement of a given DNA sequence.
+### 🔹 [Ejercicio 29: ## Collatz Conjecture ](https://github.com/CabinetSpyder/Ejercicio29-Collatz-Conjecture-cpp)
+📄 **Descripción:** The Collatz Conjecture or 3x+1 problem can be summarized as follows:
+
+Take any positive integer n. If n is even, divide n by 2 to get n / 2. If n is odd, multiply n by 3 and add 1 to get 3n + 1. Repeat the process indefinitely. The conjecture states that no matter which number you start with, you will always reach 1 eventually.
+
+Given a number n, return the number of steps required to reach 1.
