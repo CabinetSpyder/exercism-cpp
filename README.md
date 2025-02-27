@@ -92,3 +92,7 @@ Take any positive integer n. If n is even, divide n by 2 to get n / 2. If n is o
 Given a number n, return the number of steps required to reach 1.
 ### 🔹 [Ejercicio 30: # Difference of Squares ](https://github.com/CabinetSpyder/Ejercicio30-Difference-of-Squares-cpp)
 📄 **Descripción:** Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+### 🔹 [Ejercicio 31: # Nth Prime ](https://github.com/CabinetSpyder/Ejercicio31-Nth-Prime-cpp)
+📄 **Descripción:** Given a number n, determine what the nth prime is.
+
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
