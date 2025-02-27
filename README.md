@@ -82,3 +82,5 @@ One for you, one for me.
 📄 **Descripción:** Calculate the Hamming Distance between two DNA strands.
 ### 🔹 [Ejercicio 27: # Nucleotide Count](https://github.com/CabinetSpyder/Ejercicio27-Nucleotide-Count-cppt)
 📄 **Descripción:** Given a string representing a DNA sequence, count how many of each nucleotide is present. If the string contains characters that aren't A, C, G, or T then it is invalid and you should signal an error.
+### 🔹 [Ejercicio 28: #RNA Transcription ](https://github.com/CabinetSpyder/Ejercicio28-RNA-Transcription-cpp)
+📄 **Descripción:** Your task is determine the RNA complement of a given DNA sequence.
