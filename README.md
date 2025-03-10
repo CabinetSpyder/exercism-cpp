@@ -98,3 +98,8 @@ Given a number n, return the number of steps required to reach 1.
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 ### 🔹 [Ejercicio 32: # Queen Attack ](https://github.com/CabinetSpyder/Ejercicio32-Queen-Attack-cpp)
 📄 **Descripción:** Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other.
+
+### 🔹 [Ejercicio 33: # Sieve ](https://github.com/CabinetSpyder/Ejercicio33-Sieve-cpp)
+📄 **Descripción:** You bought a big box of random computer parts at a garage sale. You've started putting the parts together to build custom computers.
+
+You want to test the performance of different combinations of parts, and decide to create your own benchmarking program to see how your computers compare. You choose the famous "Sieve of Eratosthenes" algorithm, an ancient algorithm, but one that should push your computers to the limits.
