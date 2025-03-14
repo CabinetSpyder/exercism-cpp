@@ -103,3 +103,6 @@ By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that 
 📄 **Descripción:** You bought a big box of random computer parts at a garage sale. You've started putting the parts together to build custom computers.
 
 You want to test the performance of different combinations of parts, and decide to create your own benchmarking program to see how your computers compare. You choose the famous "Sieve of Eratosthenes" algorithm, an ancient algorithm, but one that should push your computers to the limits.
+
+### 🔹 [Ejercicio 34: # Say](https://github.com/CabinetSpyder/Ejercicio34-Say-cpp)
+📄 **Descripción:**  Given a number from 0 to 999,999,999,999, spell out that number in English.
