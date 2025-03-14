@@ -106,3 +106,10 @@ You want to test the performance of different combinations of parts, and decide 
 
 ### 🔹 [Ejercicio 34: # Say](https://github.com/CabinetSpyder/Ejercicio34-Say-cpp)
 📄 **Descripción:**  Given a number from 0 to 999,999,999,999, spell out that number in English.
+
+### 🔹 [Ejercicio 35: # Gigasecond ](https://github.com/CabinetSpyder/Ejercicio35-Gigasecond-cpp)
+📄 **Descripción:** Your task is to determine the date and time one gigasecond after a certain date.
+
+A gigasecond is one thousand million seconds. That is a one with nine zeros after it.
+
+If you were born on  _January 24th, 2015 at 22:00 (10:00:00pm)_, then you would be a gigasecond old on  _October 2nd, 2046 at 23:46:40 (11:46:40pm)_.
