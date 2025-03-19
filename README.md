@@ -113,3 +113,8 @@ You want to test the performance of different combinations of parts, and decide 
 A gigasecond is one thousand million seconds. That is a one with nine zeros after it.
 
 If you were born on  _January 24th, 2015 at 22:00 (10:00:00pm)_, then you would be a gigasecond old on  _October 2nd, 2046 at 23:46:40 (11:46:40pm)_.
+
+### 🔹 [Ejercicio 36: # Secret Handshake](https://github.com/CabinetSpyder/Ejercicio36-Secret-Handshake-cpp)
+📄 **Descripción:** Your task is to convert a number between 1 and 31 to a sequence of actions in the secret handshake.
+
+The sequence of actions is chosen by looking at the rightmost five digits of the number once it's been converted to binary. Start at the right-most digit and move left.
