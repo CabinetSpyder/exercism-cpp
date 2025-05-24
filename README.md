@@ -118,3 +118,6 @@ If you were born on  _January 24th, 2015 at 22:00 (10:00:00pm)_, then you would 
 📄 **Descripción:** Your task is to convert a number between 1 and 31 to a sequence of actions in the secret handshake.
 
 The sequence of actions is chosen by looking at the rightmost five digits of the number once it's been converted to binary. Start at the right-most digit and move left.
+
+### 🔹 [Ejercicio 37: # Sum of Multiples](https://github.com/CabinetSpyder/Ejercicio37-sum-of-multiples-cpp)
+📄 **Descripción:** Given a number, find the sum of all the multiples of particular numbers up to but not including that number.
