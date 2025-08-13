@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio16-Speedywagon-Foundation-cpp/speedywagon/build/CMakeFiles/speedywagon.dir
+/home/atlasvbox/exercism/cpp/Ejercicio16-Speedywagon-Foundation-cpp/speedywagon/build/CMakeFiles/test_speedywagon.dir
+/home/atlasvbox/exercism/cpp/Ejercicio16-Speedywagon-Foundation-cpp/speedywagon/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio16-Speedywagon-Foundation-cpp/speedywagon/build/CMakeFiles/rebuild_cache.dir

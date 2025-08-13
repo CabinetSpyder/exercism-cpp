@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio22-Raindrops-cpp/raindrops/build/CMakeFiles/raindrops.dir
+/home/atlasvbox/exercism/cpp/Ejercicio22-Raindrops-cpp/raindrops/build/CMakeFiles/test_raindrops.dir
+/home/atlasvbox/exercism/cpp/Ejercicio22-Raindrops-cpp/raindrops/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio22-Raindrops-cpp/raindrops/build/CMakeFiles/rebuild_cache.dir

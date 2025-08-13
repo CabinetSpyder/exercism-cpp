@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio3-Lasagna-cpp/lasagna/build/CMakeFiles/lasagna.dir
+/home/atlasvbox/exercism/cpp/Ejercicio3-Lasagna-cpp/lasagna/build/CMakeFiles/test_lasagna.dir
+/home/atlasvbox/exercism/cpp/Ejercicio3-Lasagna-cpp/lasagna/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio3-Lasagna-cpp/lasagna/build/CMakeFiles/rebuild_cache.dir

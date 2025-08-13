@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio23-Pangram-cpp/pangram/build/CMakeFiles/pangram.dir
+/home/atlasvbox/exercism/cpp/Ejercicio23-Pangram-cpp/pangram/build/CMakeFiles/test_pangram.dir
+/home/atlasvbox/exercism/cpp/Ejercicio23-Pangram-cpp/pangram/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio23-Pangram-cpp/pangram/build/CMakeFiles/rebuild_cache.dir

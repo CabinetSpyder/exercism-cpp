@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio36-Secret-Handshake-cpp/secret-handshake/build/CMakeFiles/secret-handshake.dir
+/home/atlasvbox/exercism/cpp/Ejercicio36-Secret-Handshake-cpp/secret-handshake/build/CMakeFiles/test_secret-handshake.dir
+/home/atlasvbox/exercism/cpp/Ejercicio36-Secret-Handshake-cpp/secret-handshake/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio36-Secret-Handshake-cpp/secret-handshake/build/CMakeFiles/rebuild_cache.dir

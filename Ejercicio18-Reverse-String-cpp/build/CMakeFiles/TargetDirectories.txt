@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio18-Reverse-String-cpp/reverse-string/build/CMakeFiles/reverse-string.dir
+/home/atlasvbox/exercism/cpp/Ejercicio18-Reverse-String-cpp/reverse-string/build/CMakeFiles/test_reverse-string.dir
+/home/atlasvbox/exercism/cpp/Ejercicio18-Reverse-String-cpp/reverse-string/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio18-Reverse-String-cpp/reverse-string/build/CMakeFiles/rebuild_cache.dir

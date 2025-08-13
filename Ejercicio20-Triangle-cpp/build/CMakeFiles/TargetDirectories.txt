@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio20-Triangle-cpp/triangle/build/CMakeFiles/triangle.dir
+/home/atlasvbox/exercism/cpp/Ejercicio20-Triangle-cpp/triangle/build/CMakeFiles/test_triangle.dir
+/home/atlasvbox/exercism/cpp/Ejercicio20-Triangle-cpp/triangle/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio20-Triangle-cpp/triangle/build/CMakeFiles/rebuild_cache.dir

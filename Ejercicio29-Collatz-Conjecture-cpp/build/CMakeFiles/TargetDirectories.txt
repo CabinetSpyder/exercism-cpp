@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio29-Collatz-Conjecture-cpp/collatz-conjecture/build/CMakeFiles/collatz-conjecture.dir
+/home/atlasvbox/exercism/cpp/Ejercicio29-Collatz-Conjecture-cpp/collatz-conjecture/build/CMakeFiles/test_collatz-conjecture.dir
+/home/atlasvbox/exercism/cpp/Ejercicio29-Collatz-Conjecture-cpp/collatz-conjecture/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio29-Collatz-Conjecture-cpp/collatz-conjecture/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio19-Space-Age-cpp/space-age/build/CMakeFiles/space-age.dir
+/home/atlasvbox/exercism/cpp/Ejercicio19-Space-Age-cpp/space-age/build/CMakeFiles/test_space-age.dir
+/home/atlasvbox/exercism/cpp/Ejercicio19-Space-Age-cpp/space-age/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio19-Space-Age-cpp/space-age/build/CMakeFiles/rebuild_cache.dir

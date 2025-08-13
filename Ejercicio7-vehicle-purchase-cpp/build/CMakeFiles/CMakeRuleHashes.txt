@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c2ceb5067583ae4f76870d90d207e146 CMakeFiles/test_vehicle-purchase

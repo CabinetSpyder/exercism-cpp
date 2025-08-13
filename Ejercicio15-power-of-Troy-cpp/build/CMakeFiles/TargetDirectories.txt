@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio15-power-of-Troy-cpp/power-of-troy/build/CMakeFiles/power-of-troy.dir
+/home/atlasvbox/exercism/cpp/Ejercicio15-power-of-Troy-cpp/power-of-troy/build/CMakeFiles/test_power-of-troy.dir
+/home/atlasvbox/exercism/cpp/Ejercicio15-power-of-Troy-cpp/power-of-troy/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio15-power-of-Troy-cpp/power-of-troy/build/CMakeFiles/rebuild_cache.dir

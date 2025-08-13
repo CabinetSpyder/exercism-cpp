@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio26-Hamming-cpp/hamming/build/CMakeFiles/hamming.dir
+/home/atlasvbox/exercism/cpp/Ejercicio26-Hamming-cpp/hamming/build/CMakeFiles/test_hamming.dir
+/home/atlasvbox/exercism/cpp/Ejercicio26-Hamming-cpp/hamming/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio26-Hamming-cpp/hamming/build/CMakeFiles/rebuild_cache.dir

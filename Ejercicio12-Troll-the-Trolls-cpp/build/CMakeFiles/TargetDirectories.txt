@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio12-Troll-the-Trolls-cpp/troll-the-trolls/build/CMakeFiles/troll-the-trolls.dir
+/home/atlasvbox/exercism/cpp/Ejercicio12-Troll-the-Trolls-cpp/troll-the-trolls/build/CMakeFiles/test_troll-the-trolls.dir
+/home/atlasvbox/exercism/cpp/Ejercicio12-Troll-the-Trolls-cpp/troll-the-trolls/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio12-Troll-the-Trolls-cpp/troll-the-trolls/build/CMakeFiles/rebuild_cache.dir

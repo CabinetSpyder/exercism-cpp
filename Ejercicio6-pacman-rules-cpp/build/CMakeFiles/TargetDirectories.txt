@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio6-pacman-rules-cpp/pacman-rules/build/CMakeFiles/pacman-rules.dir
+/home/atlasvbox/exercism/cpp/Ejercicio6-pacman-rules-cpp/pacman-rules/build/CMakeFiles/test_pacman-rules.dir
+/home/atlasvbox/exercism/cpp/Ejercicio6-pacman-rules-cpp/pacman-rules/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio6-pacman-rules-cpp/pacman-rules/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio24-Two-Fer-cpp/two-fer/build/CMakeFiles/two-fer.dir
+/home/atlasvbox/exercism/cpp/Ejercicio24-Two-Fer-cpp/two-fer/build/CMakeFiles/test_two-fer.dir
+/home/atlasvbox/exercism/cpp/Ejercicio24-Two-Fer-cpp/two-fer/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio24-Two-Fer-cpp/two-fer/build/CMakeFiles/rebuild_cache.dir

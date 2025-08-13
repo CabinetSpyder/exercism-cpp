@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio27-Nucleotide-Count-cppt/nucleotide-count/build/CMakeFiles/nucleotide-count.dir
+/home/atlasvbox/exercism/cpp/Ejercicio27-Nucleotide-Count-cppt/nucleotide-count/build/CMakeFiles/test_nucleotide-count.dir
+/home/atlasvbox/exercism/cpp/Ejercicio27-Nucleotide-Count-cppt/nucleotide-count/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio27-Nucleotide-Count-cppt/nucleotide-count/build/CMakeFiles/rebuild_cache.dir

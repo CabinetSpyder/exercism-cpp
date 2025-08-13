@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio33-Sieve-cpp/sieve/build/CMakeFiles/sieve.dir
+/home/atlasvbox/exercism/cpp/Ejercicio33-Sieve-cpp/sieve/build/CMakeFiles/test_sieve.dir
+/home/atlasvbox/exercism/cpp/Ejercicio33-Sieve-cpp/sieve/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio33-Sieve-cpp/sieve/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio8-making-the-grade-cpp/making-the-grade/build/CMakeFiles/making-the-grade.dir
+/home/atlasvbox/exercism/cpp/Ejercicio8-making-the-grade-cpp/making-the-grade/build/CMakeFiles/test_making-the-grade.dir
+/home/atlasvbox/exercism/cpp/Ejercicio8-making-the-grade-cpp/making-the-grade/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio8-making-the-grade-cpp/making-the-grade/build/CMakeFiles/rebuild_cache.dir

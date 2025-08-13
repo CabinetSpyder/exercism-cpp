@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio34-Say-cpp/say/build/CMakeFiles/say.dir
+/home/atlasvbox/exercism/cpp/Ejercicio34-Say-cpp/say/build/CMakeFiles/test_say.dir
+/home/atlasvbox/exercism/cpp/Ejercicio34-Say-cpp/say/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio34-Say-cpp/say/build/CMakeFiles/rebuild_cache.dir

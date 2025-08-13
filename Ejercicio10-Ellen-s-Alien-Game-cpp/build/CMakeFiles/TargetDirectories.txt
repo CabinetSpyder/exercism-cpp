@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio10-Ellen-s-Alien-Game-cpp/ellens-alien-game/build/CMakeFiles/ellens-alien-game.dir
+/home/atlasvbox/exercism/cpp/Ejercicio10-Ellen-s-Alien-Game-cpp/ellens-alien-game/build/CMakeFiles/test_ellens-alien-game.dir
+/home/atlasvbox/exercism/cpp/Ejercicio10-Ellen-s-Alien-Game-cpp/ellens-alien-game/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio10-Ellen-s-Alien-Game-cpp/ellens-alien-game/build/CMakeFiles/rebuild_cache.dir

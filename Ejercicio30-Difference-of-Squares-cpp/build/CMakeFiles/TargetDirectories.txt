@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio30-Difference-of-Squares-cpp/difference-of-squares/build/CMakeFiles/difference-of-squares.dir
+/home/atlasvbox/exercism/cpp/Ejercicio30-Difference-of-Squares-cpp/difference-of-squares/build/CMakeFiles/test_difference-of-squares.dir
+/home/atlasvbox/exercism/cpp/Ejercicio30-Difference-of-Squares-cpp/difference-of-squares/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio30-Difference-of-Squares-cpp/difference-of-squares/build/CMakeFiles/rebuild_cache.dir

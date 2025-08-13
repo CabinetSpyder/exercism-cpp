@@ -1,0 +1,4 @@
+/home/atlasvbox/exercism/cpp/Ejercicio25-Grade-School-cpp/grade-school/build/CMakeFiles/grade-school.dir
+/home/atlasvbox/exercism/cpp/Ejercicio25-Grade-School-cpp/grade-school/build/CMakeFiles/test_grade-school.dir
+/home/atlasvbox/exercism/cpp/Ejercicio25-Grade-School-cpp/grade-school/build/CMakeFiles/edit_cache.dir
+/home/atlasvbox/exercism/cpp/Ejercicio25-Grade-School-cpp/grade-school/build/CMakeFiles/rebuild_cache.dir
